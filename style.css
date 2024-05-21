@@ -1,0 +1,27 @@
+p {
+  color: darkred;
+  font-size: 22px;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: darkred;
+  font-size: 60px;
+  text-align: center
+}
+
+img {
+  height: 350px;
+  border-style:inset;
+  border-width: 6px;
+  border-color: Blue;
+  border-radius: 15px;
+}
+
+h5 {
+  color: darkred;
+  font-size: 10px
+}
